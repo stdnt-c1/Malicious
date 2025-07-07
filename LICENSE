@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2025 Muhammad Bilal Maulida (stdnt-c1)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+**Ethical Use & Restrictions Addendum**
+
+Notwithstanding the permissions granted above, this Software is provided exclusively for educational, research, and defensive security purposes. The rights granted to you under this license are conditional upon your strict adherence to the following principles:
+
+1.  **Authorized Use Only:** The Software must only be used in a controlled lab environment on networks and devices that you own or for which you have received explicit, written authorization for testing.
+
+2.  **Prohibition of Malicious Activity:** Any use of the Software for malicious purposes is strictly forbidden. This includes, but is not limited to, unauthorized attacks, disruption of public or private services, targeted harassment, or any activity that violates local, national, or international law.
+
+3.  **Adherence to Project Policies:** Your use of the Software is governed by the principles and rules outlined in the `SECURITY.md` and `MethodologyGuide.md` files distributed with this project.
+
+Failure to comply with any of these conditions shall result in the immediate and automatic termination of this license, revoking all rights and permissions granted herein.

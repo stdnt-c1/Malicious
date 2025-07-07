@@ -1,0 +1,38 @@
+# Project-specific files to ignore
+# These files are part of the repository's administrative or temporary context,
+# not the core source code intended for distribution or direct use.
+GEMINI.md
+Gracia.ino
+
+# Log files - Contains session-specific, non-essential data.
+logs/
+*.log
+
+# Personal/testing directories - Not part of the main project.
+-p/
+
+# Operating System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+dehidrated/
+
+# IDE and editor configuration
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled binaries and build artifacts
+*.bin
+*.hex
+*.elf
+build/
+
+# Environment variables and secrets
+.env*
+*.env
+secrets.h

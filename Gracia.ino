@@ -1,4 +1,24 @@
 /**
+ * =================================================================================
+ * !   D I S C L A I M E R   &   A R C H I V A L   N O T E   !
+ * =================================================================================
+ *
+ * This file, `Gracia.ino`, is the original, unrefined proof-of-concept for this
+ * project. It is a collection of messy, semi-functional, and hardcoded snippets
+ * that were used for initial testing.
+ *
+ * IT IS NOT INTENDED FOR DIRECT USE OR COMPILATION.
+ *
+ * This file is preserved in the repository for purely historical and educational
+ * purposes to show the evolution from a basic, disorganized script into the
+ * structured and well-documented project it is today. The functional and organized
+ * code can be found in the `/WiFi-Type/` and `/RF-Type/` directories.
+ *
+ * Do not consider this file a part of the active project.
+ *
+ */
+
+/**
  * ! @file Gracia.ino
  * ! @brief THIS FILE IS ONLY AN TEMPORARY FILE FOR TESTING PURPOSES.
  */
