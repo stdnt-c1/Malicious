@@ -2,7 +2,6 @@
 # These files are part of the repository's administrative or temporary context,
 # not the core source code intended for distribution or direct use.
 GEMINI.md
-Gracia.ino
 
 # Log files - Contains session-specific, non-essential data.
 logs/
