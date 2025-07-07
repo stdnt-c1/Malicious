@@ -15,9 +15,9 @@ Welcome to Project Gracia, an educational toolkit for researching and understand
 
 ---
 
-## About This Project & Gemini's Role
+## About This Project
 
-This project was developed by **Muhammad Bilal Maulida (stdnt-c1)** with significant contributions and assistance from **Google's Gemini**. Gemini served as a co-author and an interactive assistant in the development, debugging, and documentation process. Its involvement was crucial for analyzing code, identifying flaws, generating robust solutions, and creating comprehensive documentation.
+This project was developed by user **stdnt-c1** and other online contributors with significant contributions and assistance from **Google's Gemini**. Gemini served as a co-author and an interactive assistant in the development, debugging, and documentation process. Its involvement was crucial for analyzing code, identifying flaws, generating robust solutions, and creating comprehensive documentation.
 
 This collaboration demonstrates a modern workflow where human developers and advanced AI models work together to create and refine complex software.
 
@@ -27,12 +27,7 @@ This collaboration demonstrates a modern workflow where human developers and adv
 
 The tools within this repository are powerful and can cause significant disruption. They are provided **strictly for educational and research purposes** to be used in a controlled, isolated lab environment on networks you own or have explicit permission to test.
 
-### Core Code of Conduct
-1.  **No Malicious Use:** You may not use this software to harm, harass, or disrupt any system or individual.
-2.  **Lawful Use Only:** You are responsible for adhering to all applicable local and international laws regarding wireless communications.
-3.  **Assume Full Responsibility:** The authors (human and AI) are not liable for any damages or legal consequences resulting from your misuse of these tools.
-
-**By using this project, you agree to these terms.** For a full breakdown of the rules, see the [SECURITY.md](./SECURITY.md) file.
+**By using this project, you agree to these terms.** For a full breakdown of the rules, see the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) and [SECURITY.md](./SECURITY.md) files.
 
 ---
 
@@ -59,7 +54,8 @@ This repository is organized to provide both functional code and comprehensive e
 | **`MethodologyGuide.md`** | **(Essential Reading)** Provides a detailed, step-by-step guide on how to use these tools ethically in a lab, understand the attack vectors, and test countermeasures. |
 | **`GeminiReview.md`** | An in-depth cybersecurity review of each script, comparing their methodologies, effectiveness, and sophistication. This was co-authored with Gemini. |
 | **`Gracia.ino`** | **(Historical Archive)** The original, messy proof-of-concept file. It is not intended for use and is kept for historical context to show the project's evolution. |
-| **`SECURITY.md`** | The official security policy and code of conduct for the project. It outlines the rules of engagement and defines misuse. |
+| **`CODE_OF_CONDUCT.md`** | The project's code of conduct. It outlines expected behavior, community standards, and defines misuse. |
+| **`SECURITY.md`** | The official security policy for the project. It outlines responsible disclosure guidelines and known security issues. |
 | **`LICENSE`** | The project's MIT license, with an addendum that explicitly forbids malicious use and reinforces the educational-only purpose. |
 | **`/.gitignore`** | Configured to exclude temporary files, logs, and personal test directories (`-p/`) from the repository. |
 | **`/logs/`** | A directory for storing logs. It is ignored by Git. |
@@ -72,8 +68,9 @@ This repository is organized to provide both functional code and comprehensive e
 Before using any scripts, it is **critical** to understand the principles and risks involved.
 
 1.  **Read the [Methodology Guide](./MethodologyGuide.md)** to learn how to set up a safe lab environment.
-2.  **Review the [SECURITY.md](./SECURITY.md)** file to understand the code of conduct.
-3.  Explore the `README.md` files inside the `WiFi-Type` and `RF-Type` directories for specific code improvement tasks.
+2.  **Review the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)** to understand the code of conduct.
+3.  **Review the [SECURITY.md](./SECURITY.md)** file to understand the security policy and responsible disclosure guidelines.
+4.  Explore the `README.md` files inside the `WiFi-Type` and `RF-Type` directories for specific code improvement tasks.
 
 This project is designed to be a learning experience. The scripts are intentionally left with minor flaws for you to fix, guided by the provided documentation.
 
