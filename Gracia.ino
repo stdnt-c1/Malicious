@@ -1,3 +1,8 @@
+/**
+ * ! @file Gracia.ino
+ * ! @brief THIS FILE IS ONLY AN TEMPORARY FILE FOR TESTING PURPOSES.
+ */
+
 // ESP8266 + NRF24L01+ Cooperative Jammer
 // Concept: ESP8266 handles valid 802.11 deauth packets (Wi-Fi disruption)
 // NRF24L01+ handles high-power wideband RF flooding (broadband jamming)
